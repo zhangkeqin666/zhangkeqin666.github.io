@@ -3,14 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zhangkeqin666.github.io/blogtest/</loc>
-    <lastmod>2019-07-28T20:06:51+08:00</lastmod>
+    <loc>https://zhangkeqin666.github.io/</loc>
+    <lastmod>2019-07-28T20:25:04+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zhangkeqin666.github.io/</loc>
-    <lastmod>2019-07-28T20:06:51+08:00</lastmod>
+    <loc>https://zhangkeqin666.github.io/testfold/testfile/</loc>
+    <lastmod>2019-07-28T20:25:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhangkeqin666.github.io/testfold/</loc>
+    <lastmod>2019-07-28T20:25:04+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhangkeqin666.github.io/blogtest/</loc>
+    <lastmod>2019-07-28T20:06:51+08:00</lastmod>
   </url>
   
   <url>
